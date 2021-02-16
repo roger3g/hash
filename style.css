@@ -1,0 +1,67 @@
+.positionJogo{
+  width: 50px;
+  height: 50px;
+  margin: 0px;
+  padding: 0px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+}
+
+#containerJogo{
+  width: 160px;
+  height: 160px;
+  margin: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+#position1{
+  border-right: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+#position2{
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+
+#position3{
+  border-left: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+
+#position4{
+  border-right: 1px solid #000;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+
+#position5{
+  border: 1px solid #000;
+}
+
+#position6{
+  border-left: 1px solid #000;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+
+#position7{
+  border-right: 1px solid #000;
+  border-top: 1px solid #000;
+}
+
+#position8{
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  border-top: 1px solid #000;
+}
+
+#position9{
+  border-left: 1px solid #000;
+  border-top: 1px solid #000;
+}
